@@ -39,8 +39,8 @@ I’m always exploring new technologies, improving my craft, and looking for opp
 
 ## 🔥 Featured Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Adeeb-06&repo=project-1)](#)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Adeeb-06&repo=project-2)](#)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Adeeb-06&repo=Assignment-10-client)](#)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Adeeb-06&repo=MediStock-frontend)](#)
 
 
 ##  GitHub Contributions
