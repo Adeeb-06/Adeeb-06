@@ -82,7 +82,7 @@ A modern property listing web app built with **React, Express, and MongoDB**.
 - RESTful API for scalable performance  
 - Modular, reusable React components  
 
-🔗 Live: [https://your-live-link.com](https://propertyhub-b30d3.web.app/)  
+🔗 Live: https://propertyhub-b30d3.web.app/
 🔗 Repo: [https://github.com/Adeeb-06/propertyhub](https://github.com/Adeeb-06/Assignment-10-client)
 
 
