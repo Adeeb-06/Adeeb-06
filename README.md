@@ -48,7 +48,7 @@ A modern corporate website with smooth **GSAP animations** for an interactive us
 - Clean, professional layout for brands & services  
 - Fast, lightweight, and performance optimized  
 
-🔗 Live: [https://your-live-link.com ](https://akij-group-adeeb.vercel.app/) 
+🔗 Live: (https://akij-group-adeeb.vercel.app/) 
 🔗 Repo: [https://github.com/Adeeb-06/Akij-Group-Website](https://github.com/Adeeb-06/AkijGroup)
  
 
@@ -65,7 +65,7 @@ A full-featured pharmacy management system built with **Next.js, MongoDB, and JW
 - Supplier management and purchase orders  
 - Responsive, fast, and secure dashboard  
 
-🔗 Live: [https://your-live-link.com ](https://pharma-track-adeeb.vercel.app/) 
+🔗 Live: (https://pharma-track-adeeb.vercel.app/) 
 🔗 Repo: [https://github.com/Adeeb-06/pharmatrack-dashboard](https://github.com/Adeeb-06/MediStock-frontend/)
 
 
