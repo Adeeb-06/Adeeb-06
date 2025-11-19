@@ -22,19 +22,21 @@ I’m always exploring new technologies, improving my craft, and looking for opp
 | **Database** | [![My Skills](https://skillicons.dev/icons?i=mongodb,mongoose)](https://skillicons.dev) |
 | **Tools & Others** | [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,notion)](https://skillicons.dev) |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammad adeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad adeeb" height="30" width="40" /></a>
-<a href="https://fb.com/mohammad adeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad adeeb" height="30" width="40" /></a>
-</p>
+
+
+## 🌐 Connect with Me 🍬
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohammad.adeeb.894863) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohammad.adeeb_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-adeeb)
+
+
+
+
 
 ## 📊 GitHub Stats
 
 ![Adeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adeeb-06&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeeb-06&layout=compact)
 
-![Contribution Snake](https://raw.githubusercontent.com/Adeeb-06/Adeeb-06/output/snake.svg)
+##  GitHub Contributions
+![Contribution Snake](https://raw.githubusercontent.com/Adeeb-06/Adeeb-06/output/ocean.gif)
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeeb-06" alt="adeeb-06" /></a> </p>
