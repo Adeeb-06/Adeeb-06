@@ -37,10 +37,55 @@ I’m always exploring new technologies, improving my craft, and looking for opp
 ![Adeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adeeb-06&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeeb-06&layout=compact)
 
-## 🔥 Featured Projects
+## 🔥 Top Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Adeeb-06&repo=Assignment-10-client)](#)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Adeeb-06&repo=MediStock-frontend)](#)
+### 1. **Akij Group Website**
+A modern corporate website with smooth **GSAP animations** for an interactive user experience.
+
+**Highlights**
+- Smooth scroll & element animations with GSAP  
+- Fully responsive on all devices  
+- Clean, professional layout for brands & services  
+- Fast, lightweight, and performance optimized  
+
+🔗 Live: [https://your-live-link.com ](https://akij-group-adeeb.vercel.app/) 
+🔗 Repo: [https://github.com/Adeeb-06/Akij-Group-Website](https://github.com/Adeeb-06/AkijGroup)
+ 
+
+
+---
+
+### 2. **PharmaTrack Dashboard** 💊
+A full-featured pharmacy management system built with **Next.js, MongoDB, and JWT authentication**.
+
+**Highlights**
+- Manage medicines and stock efficiently  
+- Track expired stock automatically  
+- Sales, billing, and inventory management  
+- Supplier management and purchase orders  
+- Responsive, fast, and secure dashboard  
+
+🔗 Live: [https://your-live-link.com ](https://pharma-track-adeeb.vercel.app/) 
+🔗 Repo: [https://github.com/Adeeb-06/pharmatrack-dashboard](https://github.com/Adeeb-06/MediStock-frontend/)
+
+
+
+---
+
+### 3. **PropertyHub** 🏠
+A modern property listing web app built with **React, Express, and MongoDB**.
+
+**Highlights**
+- Explore and filter properties easily  
+- View featured listings with high-quality visuals  
+- Responsive and user-friendly interface  
+- RESTful API for scalable performance  
+- Modular, reusable React components  
+
+🔗 Live: [https://your-live-link.com](https://propertyhub-b30d3.web.app/)  
+🔗 Repo: [https://github.com/Adeeb-06/propertyhub](https://github.com/Adeeb-06/Assignment-10-client)
+
+
 
 
 ##  GitHub Contributions
