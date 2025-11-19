@@ -1,6 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/Adeeb-06/Adeeb-06/main/linkedinbanner-dark.png)
  # **Hi I'm Adeeb👋**
-### Full Stack Web Developer | Next.js & MERN Stack Enthusiast
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Next.js+Enthusiast;MERN+Stack+Builder;Always+Learning+New+Tech)](https://git.io/typing-svg)
+
 
 ## 👋 About Me
 
@@ -36,7 +37,19 @@ I’m always exploring new technologies, improving my craft, and looking for opp
 ![Adeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adeeb-06&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeeb-06&layout=compact)
 
+## 🔥 Featured Projects
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Adeeb-06&repo=project-1)](#)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Adeeb-06&repo=project-2)](#)
+
+
 ##  GitHub Contributions
 ![Contribution Snake](https://raw.githubusercontent.com/Adeeb-06/Adeeb-06/output/ocean.gif)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adeeb-06)
+
+
+![Visitors](https://komarev.com/ghpvc/?username=Adeeb-06&color=blue)
+
 
 
